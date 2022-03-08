@@ -1,7 +1,8 @@
 # Assembly Kullanarak Linkli Liste Tasarımı
 
 Bu proje aşağıda istenilenleri gerçekleştiren bir konsol uygulamasıdır. 
-Projemiz bir ana ekran menüsünden ve aşağıda anlatılan 3 fonksiyonu barındıran alt menülerden oluşmaktadır. 
+Projemiz bir ana ekran menüsünden ve aşağıda anlatılan 3 fonksiyonu barındıran alt menülerden oluşmaktadır.
+
 
 ## Ana Menü
 
@@ -22,6 +23,8 @@ Kullanıcadan bir değer alır ve bu değeri eğer oluşturulmuş bir linkli lis
 yeni bir linkli liste oluşturur.
 
 ## Not - Bilgilendirme:
+
+! 16 bitlik işletim sistemlerine uygun bir şekilde yazılmıştır. DOSBOX kullanarak çalıştırabilirsiniz.   
 
 Bütün menülerde, ekranın üst kısmında yapanın adı, soyadı ve numarası yazılmıştır.
 
